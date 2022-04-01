@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfZ6NbZZpCIwUtyS6bEh+9hdRDjYaT8jE5JSupabzNmgsd4dGT9e9mrqNwShk4Ybl57z/lhAzECmH0E5RlTKoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brankhos\\source\\repos\\Auto-Mate-Form\\Auto-Mate-Form\\Auto_Mate_Form.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brankhos\\.nuget\\packages\\htmlagilitypack\\1.11.29\\htmlagilitypack.1.11.29.nupkg.sha512",
+    "C:\\Users\\Brankhos\\.nuget\\packages\\ironxl.excel\\2020.12.2\\ironxl.excel.2020.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

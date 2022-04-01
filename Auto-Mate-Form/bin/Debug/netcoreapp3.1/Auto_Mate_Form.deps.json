@@ -1,0 +1,113 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Auto_Mate_Form/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.29",
+          "IronXL.Excel": "2020.12.2",
+          "Interop.Microsoft.Office.Interop.Excel": "1.9.0.0",
+          "Interop.Microsoft.Office.Core": "2.8.0.0",
+          "Interop.Microsoft.Office.Interop.Access.Dao": "12.0.0.0",
+          "Interop.VSTOEE100": "10.0.0.0"
+        },
+        "runtime": {
+          "Auto_Mate_Form.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.29": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.29.0",
+            "fileVersion": "1.11.29.0"
+          }
+        }
+      },
+      "IronXL.Excel/2020.12.2": {
+        "runtime": {
+          "lib/netstandard2.0/IronXL.dll": {
+            "assemblyVersion": "2020.12.2.0",
+            "fileVersion": "2020.12.2.0"
+          }
+        }
+      },
+      "Interop.Microsoft.Office.Interop.Excel/1.9.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "Interop.Microsoft.Office.Core/2.8.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Core.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.0.0"
+          }
+        }
+      },
+      "Interop.Microsoft.Office.Interop.Access.Dao/12.0.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Interop.Access.Dao.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.0.0"
+          }
+        }
+      },
+      "Interop.VSTOEE100/10.0.0.0": {
+        "runtime": {
+          "Interop.VSTOEE100.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auto_Mate_Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aCMPdyDUPU7z4fwMJ+4pbsUd669BWhIbC2rCo0upxBpYyblJHXNUjg5pxnk2iyqBg1C8gWF2fSxA1XERxcVZow==",
+      "path": "htmlagilitypack/1.11.29",
+      "hashPath": "htmlagilitypack.1.11.29.nupkg.sha512"
+    },
+    "IronXL.Excel/2020.12.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tsdwSR82HNZM/gtq2DfL4N7jx61K58EwBGVH7Yc1T5BwRUeHVthzbWnRfajCqIecfZThhvIqBqOzm2CF+mXoxw==",
+      "path": "ironxl.excel/2020.12.2",
+      "hashPath": "ironxl.excel.2020.12.2.nupkg.sha512"
+    },
+    "Interop.Microsoft.Office.Interop.Excel/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Core/2.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Interop.Access.Dao/12.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.VSTOEE100/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
